@@ -1,51 +1,26 @@
-<h2 align="center">Hi 👋! My name is Pedro</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=038083&height=140&section=header" alt="banner" />
 
-###
-
-<br clear="both">
+<h1 align="center">
+  <a href="https://github.com/pedrohenriickk">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=00B8B8&center=true&vCenter=true&width=800&height=80&lines=HELLO,+MY+NAME+is+pedrohenriickk" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedrohenriickk/pedrohenriickk/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/pedrohenriickk/pedrohenriickk/languages-output/languages.svg" height="150" alt="languages graph"  />
+
+<a href="https://github.com/pedrohenriickk">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrohenriickk&show_icons=true&hide_border=true&custom_title=pedrohenriickk's%20GitHub%20Stats&bg_color=0d1117&title_color=00B8B8&icon_color=00B8B8&text_color=C9D1D9&ring_color=00B8B8&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/pedrohenriickk">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriickk&layout=compact&hide_border=true&bg_color=0d1117&title_color=00B8B8&text_color=00B8B8" alt="Most Used Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://instagram.com/p.cardosok">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF5a2VmODVsM3o3ZDRsMzUzdnZicXF1MndiN2JpbGYydTIyZWN5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10yXK7QHPIH68M/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="35" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/p.cardosok" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://br.linkedin.com/in/pedro-henrick-cardoso-soares-74b96733a?trk=people-guest_people_search-card" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrohenriickk/pedrohenriickk/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrohenriickk/pedrohenriickk/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrohenriickk/pedrohenriickk/pacman-output/bomberman-contribution-graph.svg">
-</picture>
-
-###
+---
